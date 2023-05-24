@@ -1,0 +1,8 @@
+data
+data/*
+data/*.*
+data/*.csv
+data/*.dat
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+nohup.out
